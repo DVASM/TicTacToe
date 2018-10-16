@@ -1,0 +1,28 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DVASM/TicTacToe.git"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "BCS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DVASM/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/DVASM/TicTacToe#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
