@@ -1,7 +1,9 @@
-script_updates
+Commits
 =======
+
+##script updates
 
 Í package.json var bætt við eftirfarandi scriptum:
 
-    *"build": "webpack"
-    *"start": "node app.js"
+   * "build": "webpack"
+   * "start": "node app.js"
