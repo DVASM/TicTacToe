@@ -4,7 +4,9 @@
   "description": "tests",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "webpack",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
