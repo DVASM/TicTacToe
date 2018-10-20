@@ -1,7 +1,7 @@
 Commits
 =======
 
-##script updates
+## script updates
 
 Í package.json var bætt við eftirfarandi scriptum:
 
